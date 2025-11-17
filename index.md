@@ -2,148 +2,77 @@
 
 ## Home / Introduction
 
-Hi, I'm **Yusuf Mohamoud**, a rising junior at the University of Washington studying Computer Science. I enjoy building practical tools, fixing tech problems, and learning how real software systems are put together.
+Hi, my name is Yusuf Mohamoud and I’m currently studying Computer Science at the University of Washington. I’m still early in my journey, but I enjoy learning new things, building small projects, and getting better at understanding how software works. 
 
-> _Computer science student interested in software engineering, machine learning, and building useful tools._
-
-Welcome to my portfolio — this site is a work in progress and will grow as I finish more projects and classes.
+This portfolio is something I’ll keep updating as I work on more classes and projects.
 
 ---
 
 ## About Me
 
-I’m currently working toward my B.S. in Computer Science at the University of Washington. My main interests are:
+I’m interested in software engineering, web development, and anything hands-on where I can build something practical. I like solving problems, helping people with tech, and learning by actually doing the work instead of just reading about it.
 
-- Software engineering and building full-stack web apps  
-- Machine learning and using data to solve real problems  
-- Creating tools that make technology easier for people to use  
-
-I like environments where I can learn from others, but I’m also comfortable working independently and figuring things out on my own. Outside of school I spend a lot of time coding, fixing computers/phones, and helping other people with tech.
+Outside of school, I spend a lot of time coding, fixing devices, and trying different tools and technologies so I can figure out what I enjoy the most in CS.
 
 ---
 
 ## Projects (Work in Progress)
 
-Here are a few projects and experiences I’m turning into more formal projects. Some are in progress and will be updated over time.
+### 1. Speech-to-Text Transcription App
+A small web tool I started that lets a user upload an audio file and get a transcript. I built it mainly to practice working with APIs and to understand backend/frontend communication better.
 
-### 1. Speech-to-Text Transcription Web App
-
-**Description:**  
-A web app that lets users upload an audio file and get a text transcript back. The goal is to make it simple for students or creators to turn recordings into notes.
-
-**Technologies Used:**  
-React, JavaScript, Python (FastAPI), REST API, basic cloud storage
-
-**Highlights:**
-
-- Built a simple upload interface so users can submit audio files and download transcripts.
-- Connected a Python FastAPI backend to handle audio processing.
-- Focused on file handling and reliability so users don’t lose their uploads.
-- Still improving accuracy and UI based on feedback.
-
-**Status:** Work in progress — polishing the UI and exploring better models for transcription.
+**Technologies:** React, JavaScript, Python (FastAPI)  
+**What I learned:** File handling, connecting a frontend to a backend, and improving the UI little by little.
 
 ---
 
-### 2. Voters App – Feature Development
+### 2. Voters App (Feature & Bug Fix Work)
+I helped a small startup improve parts of their web app. Most of my work involved fixing bugs, cleaning up small issues, and making the app easier to navigate.
 
-**Description:**  
-Worked on a startup web app aimed at helping voters by improving the interface and fixing bugs. Focused on making the app easier to navigate for non-technical users.
-
-**Technologies Used:**  
-JavaScript, React, Git, basic frontend testing
-
-**Highlights:**
-
-- Helped reduce the bug backlog by testing, fixing issues, and documenting changes.
-- Improved navigation and layout so users could find what they needed faster.
-- Collaborated with a cross-functional team to roll out features and resolve issues.
-
-**Status:** Continuing to turn this experience into a more polished personal case study.
+**Technologies:** JavaScript, React  
+**What I learned:** Working in a codebase that wasn’t mine, communicating updates, and keeping things organized.
 
 ---
 
-### 3. Coding Lessons & Mini-Games (Seola Gardens)
+### 3. Coding Lessons & Mini-Projects (Seola Gardens)
+I created and taught simple coding lessons for people with different backgrounds. To keep things interesting, I built small examples and mini-games.
 
-**Description:**  
-Created small coding lessons and mini-projects for learners at a local tech center. The goal was to make programming less intimidating and more hands-on.
-
-**Technologies Used:**  
-Java, Python, basic game frameworks / libraries
-
-**Highlights:**
-
-- Taught learners with different skill levels and adjusted lessons based on how they were doing.
-- Built simple projects (like small games and exercises) to keep people engaged.
-- Learned how to explain programming concepts in clear, simple language.
-
-**Status:** Lessons and materials are being cleaned up so they can be shared online.
+**Technologies:** Java, Python  
+**What I learned:** How to explain concepts clearly and how to adjust lessons based on the person’s experience.
 
 ---
 
 ## Skills
 
-**Programming Languages**
-
-- Proficient: Java, Python  
-- Familiar: C, C++, SQL
-
-**Tools & Frameworks**
-
-- JavaScript, React  
-- FastAPI  
-- Git & GitHub  
-- MS Office, cloud storage tools
-
-**Other**
-
-- Comfortable troubleshooting computers and mobile devices  
-- Experience working with users and non-technical stakeholders
+- **Programming:** Java, Python, C, C++, SQL  
+- **Tools/Frameworks:** React, JavaScript, FastAPI, Git/GitHub  
+- **Other:** Tech troubleshooting, customer service, problem-solving
 
 ---
 
 ## Experience
 
-### Seola Gardens Technology Center – Volunteer  
-*Seattle, WA — June 2025 – September 2025*
+### Seola Gardens – Volunteer  
+Taught coding basics and helped learners build small projects. Adjusted lessons depending on their pace and tried to make programming less intimidating.
 
-- Taught programming and game development to learners with different backgrounds.  
-- Designed interactive Java and Python lessons to keep students engaged.  
-- Used mini-projects and exercises to help students build confidence.
-
----
-
-### Voters App (Startup) – Software Engineer Intern  
-*Seattle, WA — May 2024 – August 2024*
-
-- Helped reduce bugs by testing features, fixing defects, and documenting changes.  
-- Worked on a responsive interface that made the app easier for non-technical users.  
-- Collaborated with other developers and stakeholders to roll out features smoothly.
-
----
+### Voters App – Software Engineer Intern  
+Helped reduce bugs, tested features, and worked on UI improvements. Communicated with the team and documented changes.
 
 ### SeaTac Wireless – Service Technician  
-*Seattle, WA — November 2022 – June 2023*
-
-- Resolved most support tickets within 24 hours through phone, email, and in-person help.  
-- Installed, configured, and troubleshot software on computers and mobile devices.  
-- Performed hardware repairs (drives, RAM, screens, batteries) and helped reduce wait times.
+Handled support tickets, fixed devices, and helped customers with software/hardware issues. Worked on phones, laptops, and general troubleshooting.
 
 ---
 
 ## Resume
+You can view or download my resume here:
 
-You can download my full resume here:
-
-➡️ [View / Download my resume (PDF)](resume.pdf)
+**[Resume PDF](resume.pdf)**
 
 ---
 
 ## Contact
-
 - **Email:** yusuf6@uw.edu  
-- **Location:** Seattle, WA  
-- **LinkedIn:** [linkedin.com/in/yusuf-mohamoud-5a864629b](https://www.linkedin.com/in/yusuf-mohamoud-5a864629b)  
-- **GitHub:** [github.com/ymo206](https://github.com/ymo206)
+- **LinkedIn:** https://www.linkedin.com/in/yusuf-mohamoud-5a864629b  
+- **GitHub:** https://github.com/ymo206  
 
-Feel free to reach out about internships, projects, or collaboration.
+Feel free to reach out if you want to connect or talk about projects, internships, or anything related to tech.
